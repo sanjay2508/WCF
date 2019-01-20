@@ -1,0 +1,10 @@
+C:\Users\sanjay\documents\visual studio 2012\Projects\Myservice\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\sanjay\documents\visual studio 2012\Projects\Myservice\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\sanjay\documents\visual studio 2012\Projects\Myservice\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\sanjay\documents\visual studio 2012\Projects\Myservice\WindowsService1\bin\Debug\Myservice.dll
+C:\Users\sanjay\documents\visual studio 2012\Projects\Myservice\WindowsService1\bin\Debug\Myservice.pdb
+C:\Users\sanjay\documents\visual studio 2012\Projects\Myservice\WindowsService1\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+C:\Users\sanjay\documents\visual studio 2012\Projects\Myservice\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\sanjay\documents\visual studio 2012\Projects\Myservice\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\Users\sanjay\documents\visual studio 2012\Projects\Myservice\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+C:\Users\sanjay\documents\visual studio 2012\Projects\Myservice\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.Cache

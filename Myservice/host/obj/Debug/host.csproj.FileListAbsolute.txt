@@ -1,0 +1,8 @@
+c:\users\sanjay\documents\visual studio 2012\Projects\Myservice\host\bin\Debug\host.exe.config
+c:\users\sanjay\documents\visual studio 2012\Projects\Myservice\host\bin\Debug\host.exe
+c:\users\sanjay\documents\visual studio 2012\Projects\Myservice\host\bin\Debug\host.pdb
+c:\users\sanjay\documents\visual studio 2012\Projects\Myservice\host\bin\Debug\Myservice.dll
+c:\users\sanjay\documents\visual studio 2012\Projects\Myservice\host\bin\Debug\Myservice.pdb
+c:\users\sanjay\documents\visual studio 2012\Projects\Myservice\host\obj\Debug\host.csprojResolveAssemblyReference.cache
+c:\users\sanjay\documents\visual studio 2012\Projects\Myservice\host\obj\Debug\host.exe
+c:\users\sanjay\documents\visual studio 2012\Projects\Myservice\host\obj\Debug\host.pdb
