@@ -1,0 +1,6 @@
+c:\users\sanjay\documents\visual studio 2012\Projects\CalcForWCF\CalcForWCF\bin\Debug\CalcForWCF.exe.config
+c:\users\sanjay\documents\visual studio 2012\Projects\CalcForWCF\CalcForWCF\bin\Debug\CalcForWCF.exe
+c:\users\sanjay\documents\visual studio 2012\Projects\CalcForWCF\CalcForWCF\bin\Debug\CalcForWCF.pdb
+c:\users\sanjay\documents\visual studio 2012\Projects\CalcForWCF\CalcForWCF\obj\Debug\CalcForWCF.csprojResolveAssemblyReference.cache
+c:\users\sanjay\documents\visual studio 2012\Projects\CalcForWCF\CalcForWCF\obj\Debug\CalcForWCF.exe
+c:\users\sanjay\documents\visual studio 2012\Projects\CalcForWCF\CalcForWCF\obj\Debug\CalcForWCF.pdb
